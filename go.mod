@@ -1,3 +1,3 @@
-module github.com/mikattack/mtest/v1
+module github.com/mikattack/mtest
 
-go 1.15
+go 1.18
